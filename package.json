@@ -1,0 +1,19 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "Brushing up on node.js",
+  "main": "hellonode.js",
+  "scripts": {
+    "start": "node hellonode.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
